@@ -32,7 +32,7 @@ import Trainings from "../Pages/Trainings/Trainings";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/aaaomco-webiste",
     errorElement: <ErrorPage />,
     element: <Main />,
     children: [
