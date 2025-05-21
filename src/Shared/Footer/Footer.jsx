@@ -122,7 +122,7 @@ const Footer = () => {
                 <FiGlobe />
               </div>
               <div className="flex-1 mt-2">
-                <a href="https://www. aaaomco.com/" target="_blank">
+                <a href="https://www.aaaomco.com/" target="_blank">
               <h6 className="font-Inter font-medium text-[15px] text-[#02416A]">
               aaaomco.com
                 </h6></a>
@@ -365,7 +365,7 @@ const Footer = () => {
        <ul className="flex gap-6 text-white uppercase justify-center mb-4">
   {/* Facebook */}
   <li className="flex items-center gap-2">
-    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-SecondaryColor-0 relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-SecondaryColor-0 before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
+    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-[#FD9F00] relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-[#02426A] before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
       <FaFacebookF />
     </button>
     <span className="font-bold text-[14px] hover:text-[#02416A] hidden sm:block">Facebook</span>
@@ -373,7 +373,7 @@ const Footer = () => {
 
   {/* Instagram */}
   <li className="flex items-center gap-2">
-    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-SecondaryColor-0 relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-SecondaryColor-0 before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
+    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-[#FD9F00] relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-[#02426A] before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
       <BsInstagram />
     </button>
     <span className="font-bold text-[14px] hover:text-[#02416A] hidden sm:block">Instagram</span>
@@ -381,7 +381,7 @@ const Footer = () => {
 
   {/* WhatsApp */}
   <li className="flex items-center gap-2">
-    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-SecondaryColor-0 relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-SecondaryColor-0 before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
+    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-[#FD9F00] relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-[#02426A] before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
       <BsWhatsapp />
     </button>
     <span className="font-bold text-[14px] hover:text-[#02416A] hidden sm:block">WhatsApp</span>
@@ -389,7 +389,7 @@ const Footer = () => {
 
   {/* LinkedIn */}
   <li className="flex items-center gap-2">
-    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-SecondaryColor-0 relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-SecondaryColor-0 before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
+    <button className="w-8 h-8 rounded-full border-2 border-[#02416A] flex items-center justify-center text-white overflow-hidden transition-all duration-500 hover:border-[#FD9F00] relative z-10 before:absolute before:top-0 before:left-0 before:w-full before:h-full before:-z-10 before:bg-[#02426A] before:transition-all before:duration-500 before:scale-0 hover:before:scale-100">
       <FaLinkedinIn />
     </button>
     <span className="font-bold text-[14px] hover:text-[#02416A] hidden sm:block">LinkedIn</span>

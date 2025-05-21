@@ -172,7 +172,7 @@ const ServiceInner = () => {
       <About/>
       
       <Testimonial/>
-      <ContactLocation/>
+      {/* <ContactLocation/> */}
       {/* <Support /> */}
       {/* <Pricing /> */}
     </>
